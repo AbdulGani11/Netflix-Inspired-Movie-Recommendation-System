@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: dark;
+  background-color: #141414;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+@layer components {
+  .netflix-row {
+    @apply my-8 px-4;
+  }
+
+  .netflix-card {
+    @apply bg-netflix-dark rounded overflow-hidden shadow-lg transition-transform duration-300 hover:scale-105 cursor-pointer;
+  }
+
+  .netflix-button {
+    @apply bg-netflix-red text-white font-bold py-2 px-4 rounded hover:bg-red-700 transition-colors;
+  }
+}
+
+/* Add this to your index.css or equivalent CSS file */
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+
+/* Hide those specific navigation controls that appear at the bottom */
+.netflix-row > div > .scrollbar-controls,
+.netflix-row > div > [role="navigation"],
+.netflix-row ~ nav,
+.netflix-row ~ div[role="navigation"] {
+  display: none !important;
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "profile1",
+    "name": "Action Fan",
+    "avatar": "/avatars/2.png",
+    "preferences": {
+      "genres": [
+        "drama",
+        "action",
+        "crime"
+      ],
+      "languages": [
+        "en"
+      ],
+      "contentType": "movies"
+    }
+  },
+  {
+    "id": "profile2",
+    "name": "Comedy Lover",
+    "avatar": "/avatars/1.png",
+    "preferences": {
+      "genres": [
+        "adventure",
+        "comedy",
+        "romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "contentType": "both"
+    }
+  },
+  {
+    "id": "profile3",
+    "name": "Drama Enthusiast",
+    "avatar": "/avatars/2.png",
+    "preferences": {
+      "genres": [
+        "drama",
+        "action",
+        "crime"
+      ],
+      "languages": [
+        "en"
+      ],
+      "contentType": "movies"
+    }
+  }
+]

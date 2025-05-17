@@ -1,0 +1,362 @@
+[
+  {
+    "id": "interaction_profile1_0",
+    "profileId": "profile1",
+    "contentId": "content7416",
+    "type": "like",
+    "timestamp": "2015-10-24T19:35:40.000Z",
+    "details": {
+      "rating": 4.5,
+      "duration": 131,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile1_1",
+    "profileId": "profile1",
+    "contentId": "content8510",
+    "type": "skip",
+    "timestamp": "2015-10-24T19:34:36.000Z",
+    "details": {
+      "rating": 2,
+      "duration": 75,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile1_2",
+    "profileId": "profile1",
+    "contentId": "content8682",
+    "type": "like",
+    "timestamp": "2015-10-24T19:34:32.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 30,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile1_3",
+    "profileId": "profile1",
+    "contentId": "content1285",
+    "type": "like",
+    "timestamp": "2015-10-24T19:33:48.000Z",
+    "details": {
+      "rating": 4.5,
+      "duration": 111,
+      "device": "mobile"
+    }
+  },
+  {
+    "id": "interaction_profile1_4",
+    "profileId": "profile1",
+    "contentId": "content7698",
+    "type": "like",
+    "timestamp": "2015-10-24T19:33:09.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 144,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile1_5",
+    "profileId": "profile1",
+    "contentId": "content7437",
+    "type": "like",
+    "timestamp": "2015-10-24T19:32:52.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 144,
+      "device": "mobile"
+    }
+  },
+  {
+    "id": "interaction_profile1_6",
+    "profileId": "profile1",
+    "contentId": "content7591",
+    "type": "like",
+    "timestamp": "2015-10-24T19:32:46.000Z",
+    "details": {
+      "rating": 4,
+      "duration": 35,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile1_7",
+    "profileId": "profile1",
+    "contentId": "content7011",
+    "type": "like",
+    "timestamp": "2015-10-24T19:32:34.000Z",
+    "details": {
+      "rating": 4.5,
+      "duration": 114,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile1_8",
+    "profileId": "profile1",
+    "contentId": "content8377",
+    "type": "view",
+    "timestamp": "2015-10-24T19:32:25.000Z",
+    "details": {
+      "rating": 3,
+      "duration": 126,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile1_9",
+    "profileId": "profile1",
+    "contentId": "content6711",
+    "type": "like",
+    "timestamp": "2015-10-24T19:32:21.000Z",
+    "details": {
+      "rating": 4.5,
+      "duration": 145,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile2_0",
+    "profileId": "profile2",
+    "contentId": "content1875",
+    "type": "like",
+    "timestamp": "2000-08-08T07:27:42.000Z",
+    "details": {
+      "rating": 4,
+      "duration": 62,
+      "device": "mobile"
+    }
+  },
+  {
+    "id": "interaction_profile2_1",
+    "profileId": "profile2",
+    "contentId": "content1488",
+    "type": "like",
+    "timestamp": "2000-07-30T19:09:36.000Z",
+    "details": {
+      "rating": 4,
+      "duration": 100,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile2_2",
+    "profileId": "profile2",
+    "contentId": "content1867",
+    "type": "like",
+    "timestamp": "2000-07-30T19:09:29.000Z",
+    "details": {
+      "rating": 4,
+      "duration": 135,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile2_3",
+    "profileId": "profile2",
+    "contentId": "content486",
+    "type": "like",
+    "timestamp": "2000-07-30T19:09:13.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 114,
+      "device": "mobile"
+    }
+  },
+  {
+    "id": "interaction_profile2_4",
+    "profileId": "profile2",
+    "contentId": "content1111",
+    "type": "view",
+    "timestamp": "2000-07-30T19:08:32.000Z",
+    "details": {
+      "rating": 3,
+      "duration": 71,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile2_5",
+    "profileId": "profile2",
+    "contentId": "content131",
+    "type": "like",
+    "timestamp": "2000-07-30T19:08:20.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 125,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile2_6",
+    "profileId": "profile2",
+    "contentId": "content616",
+    "type": "view",
+    "timestamp": "2000-07-30T19:08:06.000Z",
+    "details": {
+      "rating": 3,
+      "duration": 78,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile2_7",
+    "profileId": "profile2",
+    "contentId": "content997",
+    "type": "like",
+    "timestamp": "2000-07-30T19:08:06.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 45,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile2_8",
+    "profileId": "profile2",
+    "contentId": "content2304",
+    "type": "like",
+    "timestamp": "2000-07-30T19:08:06.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 35,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile2_9",
+    "profileId": "profile2",
+    "contentId": "content2580",
+    "type": "like",
+    "timestamp": "2000-07-30T19:07:34.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 124,
+      "device": "mobile"
+    }
+  },
+  {
+    "id": "interaction_profile3_0",
+    "profileId": "profile3",
+    "contentId": "content7416",
+    "type": "like",
+    "timestamp": "2015-10-24T19:35:40.000Z",
+    "details": {
+      "rating": 4.5,
+      "duration": 131,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile3_1",
+    "profileId": "profile3",
+    "contentId": "content8510",
+    "type": "skip",
+    "timestamp": "2015-10-24T19:34:36.000Z",
+    "details": {
+      "rating": 2,
+      "duration": 75,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile3_2",
+    "profileId": "profile3",
+    "contentId": "content8682",
+    "type": "like",
+    "timestamp": "2015-10-24T19:34:32.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 30,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile3_3",
+    "profileId": "profile3",
+    "contentId": "content1285",
+    "type": "like",
+    "timestamp": "2015-10-24T19:33:48.000Z",
+    "details": {
+      "rating": 4.5,
+      "duration": 111,
+      "device": "mobile"
+    }
+  },
+  {
+    "id": "interaction_profile3_4",
+    "profileId": "profile3",
+    "contentId": "content7698",
+    "type": "like",
+    "timestamp": "2015-10-24T19:33:09.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 144,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile3_5",
+    "profileId": "profile3",
+    "contentId": "content7437",
+    "type": "like",
+    "timestamp": "2015-10-24T19:32:52.000Z",
+    "details": {
+      "rating": 5,
+      "duration": 144,
+      "device": "mobile"
+    }
+  },
+  {
+    "id": "interaction_profile3_6",
+    "profileId": "profile3",
+    "contentId": "content7591",
+    "type": "like",
+    "timestamp": "2015-10-24T19:32:46.000Z",
+    "details": {
+      "rating": 4,
+      "duration": 35,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile3_7",
+    "profileId": "profile3",
+    "contentId": "content7011",
+    "type": "like",
+    "timestamp": "2015-10-24T19:32:34.000Z",
+    "details": {
+      "rating": 4.5,
+      "duration": 114,
+      "device": "tv"
+    }
+  },
+  {
+    "id": "interaction_profile3_8",
+    "profileId": "profile3",
+    "contentId": "content8377",
+    "type": "view",
+    "timestamp": "2015-10-24T19:32:25.000Z",
+    "details": {
+      "rating": 3,
+      "duration": 126,
+      "device": "web"
+    }
+  },
+  {
+    "id": "interaction_profile3_9",
+    "profileId": "profile3",
+    "contentId": "content6711",
+    "type": "like",
+    "timestamp": "2015-10-24T19:32:21.000Z",
+    "details": {
+      "rating": 4.5,
+      "duration": 145,
+      "device": "web"
+    }
+  }
+]
